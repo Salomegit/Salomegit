@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salomegit
 - 👀 I’m interested in python
-- 🌱 I’m currently learning flask framework in python
+- 🌱 I’m currently learning django framework in python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Twitter @seilomegithinji 
 
