@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salomegit
 - 👀 I’m interested in python
 - 🌱 I’m currently learning django framework in python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any web based project in python/django
 - 📫 How to reach me Twitter @seilomegithinji 
 
 <!---
